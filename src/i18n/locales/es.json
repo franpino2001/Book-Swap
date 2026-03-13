@@ -1,0 +1,88 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "error": "Algo salió mal",
+    "retry": "Reintentar",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "done": "Listo",
+    "next": "Siguiente",
+    "back": "Atrás"
+  },
+  "auth": {
+    "welcome": "Bienvenido a BookSwap",
+    "tagline": "Intercambia libros cerca de ti, un desliz a la vez",
+    "login": "Iniciar sesión",
+    "signup": "Registrarse",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar contraseña",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "noAccount": "¿No tienes cuenta?",
+    "hasAccount": "¿Ya tienes cuenta?"
+  },
+  "onboarding": {
+    "chooseLanguage": "Elige tu idioma",
+    "createProfile": "Crea tu perfil",
+    "username": "Usuario",
+    "displayName": "Nombre para mostrar",
+    "bio": "Breve biografía",
+    "location": "Ubicación",
+    "city": "Ciudad",
+    "country": "País",
+    "allowLocation": "Usar mi ubicación para libros cercanos",
+    "preferredGenres": "Géneros preferidos"
+  },
+  "tabs": {
+    "swipe": "Deslizar",
+    "marketplace": "Mercado",
+    "library": "Biblioteca",
+    "matches": "Coincidencias"
+  },
+  "swipe": {
+    "noMoreBooks": "No hay más libros cerca",
+    "swipeRight": "Interesado",
+    "swipeLeft": "Pasar",
+    "distance": "A {{distance}} km"
+  },
+  "marketplace": {
+    "title": "Explorar libros",
+    "filters": "Filtros",
+    "category": "Categoría",
+    "condition": "Condición",
+    "distance": "Distancia",
+    "interested": "Me interesa"
+  },
+  "library": {
+    "title": "Mi biblioteca",
+    "addBook": "Añadir libro",
+    "noBooks": "Aún no hay libros",
+    "addFirst": "Añade tu primer libro para empezar a intercambiar"
+  },
+  "book": {
+    "title": "Título",
+    "author": "Autor",
+    "condition": "Condición",
+    "notes": "Notas",
+    "new": "Nuevo",
+    "good": "Bueno",
+    "fair": "Regular",
+    "poor": "Pobre"
+  },
+  "matches": {
+    "title": "Coincidencias",
+    "noMatches": "Aún no hay coincidencias",
+    "startSwiping": "¡Empieza a deslizar para encontrar personas con quienes intercambiar!"
+  },
+  "chat": {
+    "placeholder": "Escribe un mensaje...",
+    "send": "Enviar"
+  },
+  "profile": {
+    "title": "Perfil",
+    "settings": "Ajustes",
+    "language": "Idioma",
+    "editProfile": "Editar perfil",
+    "logout": "Cerrar sesión"
+  }
+}

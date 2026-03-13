@@ -1,0 +1,88 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "done": "Done",
+    "next": "Next",
+    "back": "Back"
+  },
+  "auth": {
+    "welcome": "Welcome to BookSwap",
+    "tagline": "Trade books locally, one swipe at a time",
+    "login": "Log in",
+    "signup": "Sign up",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "forgotPassword": "Forgot password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?"
+  },
+  "onboarding": {
+    "chooseLanguage": "Choose your language",
+    "createProfile": "Create your profile",
+    "username": "Username",
+    "displayName": "Display name",
+    "bio": "Short bio",
+    "location": "Location",
+    "city": "City",
+    "country": "Country",
+    "allowLocation": "Use my location for nearby books",
+    "preferredGenres": "Preferred genres"
+  },
+  "tabs": {
+    "swipe": "Swipe",
+    "marketplace": "Marketplace",
+    "library": "Library",
+    "matches": "Matches"
+  },
+  "swipe": {
+    "noMoreBooks": "No more books nearby",
+    "swipeRight": "Interested",
+    "swipeLeft": "Pass",
+    "distance": "{{distance}} km away"
+  },
+  "marketplace": {
+    "title": "Browse books",
+    "filters": "Filters",
+    "category": "Category",
+    "condition": "Condition",
+    "distance": "Distance",
+    "interested": "I'm interested"
+  },
+  "library": {
+    "title": "My library",
+    "addBook": "Add book",
+    "noBooks": "No books yet",
+    "addFirst": "Add your first book to start swapping"
+  },
+  "book": {
+    "title": "Title",
+    "author": "Author",
+    "condition": "Condition",
+    "notes": "Notes",
+    "new": "New",
+    "good": "Good",
+    "fair": "Fair",
+    "poor": "Poor"
+  },
+  "matches": {
+    "title": "Matches",
+    "noMatches": "No matches yet",
+    "startSwiping": "Start swiping to find people to trade with!"
+  },
+  "chat": {
+    "placeholder": "Type a message...",
+    "send": "Send"
+  },
+  "profile": {
+    "title": "Profile",
+    "settings": "Settings",
+    "language": "Language",
+    "editProfile": "Edit profile",
+    "logout": "Log out"
+  }
+}
